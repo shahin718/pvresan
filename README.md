@@ -15,7 +15,7 @@ Import the https://github.com/alireza1998/pvresan to your Github and edit(line 2
 Creating an account on the site www.openshift.com
 And build an application
 Choose PHP 5.4
-Import ex: https://github.com/alireza1998/pvresan.git
+Import ex: https://github.com/shahin718/pvresan
  And click on Create Application
  
 The last step is to set the webhook
@@ -26,7 +26,7 @@ Example: https://api.telegram.org/bot2410172AGLGw1-P8Djir3ngaWDF-_Cf5Nzx-47Q/set
 ```
 
 # رفع مشکل 
-[alireza_PT](https://telegram.me/cliapi)
+[SH4HIN1228S](https://telegram.me/cliapi)
 
 # رفع مشکل /سوال 
 [pmresan](https://telegram.me/alireza_pt_bot) 
